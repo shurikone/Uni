@@ -1,0 +1,7 @@
+Die Multiplizität von der Aggregationsbeziehung zwischen der Klasse "Kugel" 
+und dem Interface "GeometrischeObjekte" ist genau 2,
+da wir nur die feste Anzahl von Kugeln brauchen, und zwar 2.
+
+Die Multiplizität von der Aggregationsbeziehung zwischen der Klasse "Wuerfel" 
+und dem Interface "GeometrischeObjekte" ist genau 3,
+da wir nur die feste Anzahl von Kugeln brauchen, und zwar 3.
